@@ -113,5 +113,5 @@ import java.util.HashMap;
         userSquad = new Squads(squadName, theme, url, numberOf);
         user.put("userSquad", Squads.getAllSquads());
         return new ModelAndView(user, "success.hbs");
-    }ajah
+    }
 }
