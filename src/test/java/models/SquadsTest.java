@@ -36,7 +36,7 @@ public class SquadsTest {
         Assertions.assertEquals(5, first.getMaxHeroes());
         Assertions.assertEquals(6, Squads.getAllSquads().size());
         Assertions.assertEquals("http.sgd.com", second.getUrl());
-    }
+    }aaaa
 
     @Test
     public void findId_getsCorrectSquad() throws Exception{
