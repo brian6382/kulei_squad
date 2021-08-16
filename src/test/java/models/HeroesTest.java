@@ -31,7 +31,7 @@ public class HeroesTest {
             Assertions.assertEquals("IronMan", newHero.getName());
             Assertions.assertEquals("Smart", newHero.getSuperPower());
             Assertions.assertEquals("Leader", newHero.getRole());
-        }
+        } ajajj
 
         @Test
         public void getAllHeroes_capturesAllHeroes_2() throws Exception{
