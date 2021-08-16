@@ -32,7 +32,7 @@ public class Heroes {
 
     public static List<Heroes> getAllHeroes() {
         return allHeroes;
-    }
+    }aa
 
     public static void clearAllHeroes(){
         allHeroes.clear();
